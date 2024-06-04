@@ -9,7 +9,7 @@
 - 🔭 I’m currently exploring opensource and machine learning.  
   
 
-- 🌱 I’m currently learning backend frameworks like Django and exploring NextJS to it's real capabilities.  
+- 🌱 I’m currently learning advanced backend concepts and exploring NextJS to it's real capabilities.  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
