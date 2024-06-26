@@ -6,7 +6,7 @@
 ### <div align="center">Hello, I'm Shivanshu Ranjan, a tech geek and a full-stack  developer   👨‍💻  🚀</div>  
   
 
-- 🔭 I’m currently exploring opensource and machine learning.  
+- 🔭 I’m currently exploring opensource and DevOps.  
   
 
 - 🌱 I’m currently learning advanced backend concepts and exploring NextJS to it's real capabilities.  
