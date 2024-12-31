@@ -1,4 +1,4 @@
-<p align="center"><b>I code, that's it.</b></p>
+<p align="center"><b>I code.</b></p>
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=317siayuy7dx7s3jvoae2lidy67a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true">
