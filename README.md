@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shivanshu-ranjan-0671a3245/">
-    <img src="[https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/downloads/fg/brandg-business-linkedin-logo-dsk-v03.png/jcr:content/renditions/brandg-business-linkedin-logo-dsk-v03-2x.png)" alt="LinkedIn">
+    <img src="https://img.icons8.com/?size=96&id=xuvGCOXi8Wyg&format=png" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/shivuuuuu264">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
