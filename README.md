@@ -12,6 +12,6 @@
     <img src="https://img.icons8.com/?size=96&id=xuvGCOXi8Wyg&format=png" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/shivuuuuu264">
-    <img src=https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png" alt="Twitter">
+    <img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png" alt="Twitter">
   </a>
 </p>
